@@ -95,5 +95,5 @@ EXECUTE IMMEDIATE
 
 -IRAKOZE NSUMBA Herve 28028: "I carefully reviewed the business rules and understood how triggers enforce access and logging policies. I then implemented separate triggers for blocking unauthorized access and recording violations, testing them to ensure the system works as required."
 
-
+-Muhirwa Kirenga Remy 28368: On this Exercise, I focused on validating the trigger behavior under different scenarios and confirming that both access control and logging operated smoothly. I also assisted in refining the logic to ensure the system responded correctly to restricted hours and days.
 
