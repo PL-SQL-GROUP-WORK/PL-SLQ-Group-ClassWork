@@ -2,7 +2,7 @@
     1) IRAKOZE NSUMBA Herve 28028
     2) Ushindi Bihame victoire 27269
     3) Muhirwa Kirenga Remy 28368
-    4)
+    4) UWINEZA Happy 27829
     5)
 
 # QUESTION 1: University System Policy Enforcement Using PL/SQL Triggers
@@ -97,3 +97,4 @@ EXECUTE IMMEDIATE
 
 -Muhirwa Kirenga Remy 28368: On this Exercise, I focused on validating the trigger behavior under different scenarios and confirming that both access control and logging operated smoothly. I also assisted in refining the logic to ensure the system responded correctly to restricted hours and days.
 
+-Uwineza Happy 27829: I contributed by developing and testing the trigger that enforce the time based access restrictions. I also verified that the violation logs were correctly recorded in the audit table and ensured the overall system met the required business rule 
