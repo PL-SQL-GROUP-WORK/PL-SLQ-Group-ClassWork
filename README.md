@@ -89,8 +89,9 @@ Everything is wrapped inside one PL/SQL package (`hr_salary_pkg`).
 - Executes it.
 EXECUTE IMMEDIATE
 
-AUTHORS COMMENTS:
-IRAKOZE NSUMBA Herve 28028: "I carefully reviewed the business rules and understood how triggers enforce access and logging policies. I then implemented separate triggers for blocking unauthorized access and recording violations, testing them to ensure the system works as required."
+#AUTHORS COMMENTS:
+
+-IRAKOZE NSUMBA Herve 28028: "I carefully reviewed the business rules and understood how triggers enforce access and logging policies. I then implemented separate triggers for blocking unauthorized access and recording violations, testing them to ensure the system works as required."
 
 
 
