@@ -1,9 +1,9 @@
-#NAMES & ID : 
-    1) IRAKOZE NSUMBA Herve 28028
-    2) Ushindi Bihame victoire 27269
-    3) Muhirwa Kirenga Remy 28368
-    4) UWINEZA Happy 27829
-    5)
+# NAMES & ID :
+    1. IRAKOZE NSUMBA Herve 28028
+    2. Ushindi Bihame victoire 27269
+    3. Muhirwa Kirenga Remy 28368
+    4. UWINEZA Happy 27829
+    5.
 
 # QUESTION 1: University System Policy Enforcement Using PL/SQL Triggers
 
